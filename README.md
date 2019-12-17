@@ -15,7 +15,7 @@ Reinforcement Learning course @ Warsaw University of Technology: CARLA autonomou
 - `Python 3.7.x`, e.g. [Python 3.7.5](https://www.python.org/downloads/release/python-375/)
 - Upgrade `pip`: `python -m pip install --upgrade pip`
 - Once installed, install Python requirements: `pip install -r requirements.txt`
-- Check if `CARLA` is working by invoking a sample script, e.g. `python spawn_npc.py`
+- Check if `CARLA` is working by invoking a sample script, e.g. `python manual_driving.py`
 
 ## Links
 
