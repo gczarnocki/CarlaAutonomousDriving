@@ -1,0 +1,5 @@
+# This script is copied from `PythonAPI` subdirectory in `CARLA` installation folder.
+
+future
+numpy
+pygame
